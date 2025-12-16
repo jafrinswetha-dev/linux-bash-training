@@ -1,0 +1,9 @@
+pwd   # show current directory
+ls    # list files
+cd    # change directory
+mkdir # create directory
+rm    # remove files
+echo "Hello"  # print message
+cat file.txt  # show file content
+touch file2.txt  # create empty file
+
